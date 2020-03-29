@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Inductor_1008)(type KiCad)(uri "$(KIPRJMOD)/Inductor_1008.pretty")(options "")(descr ""))
+  (lib (name JS202011SCQN_Slide_Switch)(type KiCad)(uri "$(KIPRJMOD)/JS202011SCQN_Slide_Switch.pretty")(options "")(descr ""))
+  (lib (name BK_82_MPD)(type KiCad)(uri "$(KIPRJMOD)/BK_82_MPD.pretty")(options "")(descr ""))
+)
